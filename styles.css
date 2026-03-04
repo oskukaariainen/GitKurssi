@@ -10,14 +10,12 @@
      height: 100%;
  }
 
- main {
-     text-align: center;
- }
-
- button {
-     background-color: blue;
-     color: white;
-     margin: 10px;
-     padding: 8px;
-     border-radius: 8px;
- }
+main {
+    text-align: center;
+}
+#datetime {
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  border: 1px solid grey;
+}
