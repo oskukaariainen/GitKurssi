@@ -15,6 +15,6 @@ function setTime() {
 
   document.getElementById("datetime").innerHTML = datetime;
 }
-setTime();
+
 setTime();
 setInterval(setTime, 1000);
